@@ -16,7 +16,7 @@
 {
 ?> 
             <div class="right-div">
-                <a href="logout.php" class="btn btn-danger pull-right">LOG ME OUT</a>
+                <a href="logout.php" class="btn btn-danger pull-right">Sign out</a>
             </div>
             <?php }?>
         </div>
@@ -31,7 +31,7 @@
                 <div class="col-md-12">
                     <div class="navbar-collapse collapse ">
                         <ul id="menu-top" class="nav navbar-nav navbar-right">
-                            <li><a href="dashboard.php" class="menu-top-active">DASHBOARD</a></li>
+                            <li><a href="dashboard.php" class="menu-top-active">Dashboard</a></li>
                            
                           
    <li>
@@ -57,7 +57,7 @@
             <div class="row ">
                 <div class="col-md-12">
                     <div class="navbar-collapse collapse ">
-                        <ul id="menu-top" class="nav navbar-nav navbar-right">                        
+                        <ul id="menu-top" class="nav navbar-nav">                        
                           
   <li><a href="adminlogin.php">Admin Login</a></li>
                             <li><a href="signup.php">User Signup</a></li>

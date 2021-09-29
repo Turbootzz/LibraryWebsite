@@ -12,3 +12,4 @@ Library website made for school.
     - Restart php server
 2. Create database and import the library.sql in the sql folder.
 3. Put in your database credentials in config.php.
+4. Admin Login: Username: admin Password: Test@123
